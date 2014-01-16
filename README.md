@@ -21,6 +21,7 @@ which would produce decent looking output without looking stupid in vim.
   * Denote **Bold** text using the asterisk format: `**bold text**`.
   * Denote _italic_ text using the underscore format: `_emphasized text_`.
   * Force a linebreak by ending a line with two spaces, no more.
+  * Use tabs for indentation over spaces
 
 ## Headings
 
